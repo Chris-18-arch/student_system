@@ -1,0 +1,1 @@
+console.log("Student Event Portal Loaded");
